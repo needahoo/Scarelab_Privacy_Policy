@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Kontakty
 
-Kontaktujte nás prosím na team@scarelab.cz
+team@scarelab.cz
