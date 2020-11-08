@@ -57,7 +57,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### "Nápad na hlášku" button
 
-If you use and send us a mail, you're giving us a permission to respond to your mail/send you occasional promotional email. You are always able to unsubscribe from these using the "Unsubscribe from newsletter" button that is in every promotional email.
+If "Nápad na hlášku" button is used to send an Email, you are agreeing to be contacted back by us. Unless stated otherwise in the email, you do give us a permission to send you occasional promotional Emails. You are always able to unsubscribe from the newsletter using the "Unsubscribe from newsletter" button that is in located in the bottom of every promotional Email.
 
 ### Contacts
 
