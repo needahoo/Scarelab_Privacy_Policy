@@ -55,10 +55,6 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-### "Nápad na hlášku" button
-
-If “Nápad na hlášku” button is used to send an email, you agree to be contacted back by us. Unless stated otherwise in the email, you do permit us to send you occasional promotional Emails. You are always able to unsubscribe from the newsletter using the “Unsubscribe from newsletter” button that is in located in the bottom of every promotional email.
-
 ### Contacts
 
 team@scarelab.cz
